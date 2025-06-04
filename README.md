@@ -11,6 +11,17 @@ An AI-powered chatbot built using [Lovable.ai](https://www.lovable.ai/) that hel
 - 🧑‍🎓 Personalized feedback based on user input
 - 📚 Learning path & course recommendations
 - 📈 Progress tracking (future update)
+- ## 🔥 Demo Screenshots
+
+### 🏠 Home Screen
+![Home Screen](home_screen.png)
+
+### 📝 User Input
+![User Input](user_input.png)
+
+### 📊 Output Cards
+![Output Cards](output_cards.png)
+
 
 ---
 
