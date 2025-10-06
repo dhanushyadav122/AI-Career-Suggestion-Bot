@@ -1,15 +1,15 @@
-# 🧠 AI Career Suggestion Bot
+#  AI Career Suggestion Bot
 
 An AI-powered chatbot built with [Lovable.ai](https://www.lovable.ai/) to help users discover the right career path based on their interests, skills, and goals.
 
 ---
 
-## 📝 Overview
+# Overview
 AI Career Suggestion Bot provides personalized career advice and learning resources for students and professionals. By leveraging AI, it delivers suggestions tailored to your interests, skill levels, and goals.
 
 ---
 
-## 🔍 Features
+# Features
 - Beginner / Intermediate / Advanced career filters
 - Smart AI suggestions across various domains
 - Personalized feedback based on your input
@@ -18,19 +18,19 @@ AI Career Suggestion Bot provides personalized career advice and learning resour
 
 ---
 
-## 🧰 Tech Stack
+# Tech Stack
 - Lovable.ai (No-code AI builder)
 - GPT-based backend (via Lovable)
 - Custom prompts and smart cards
 
 ---
 
-## 🚀 Live Demo
+# Live Demo
 [Try it now](https://www.lovable.ai/) <!-- Replace with your actual demo link if available -->
 
 ---
 
-## 💡 How to Use
+# How to Use
 1. Open the app on Lovable.ai.
 2. Select your career level (Beginner, Intermediate, Advanced).
 3. Enter your area of interest (e.g., Data Science, Web Development).
@@ -38,7 +38,7 @@ AI Career Suggestion Bot provides personalized career advice and learning resour
 
 ---
 
-## 📸 Screenshots
+# Screenshots
 
 ![Home Screen](home_screen.png)
 ![User Input](user_input.png)
@@ -50,20 +50,20 @@ AI Career Suggestion Bot provides personalized career advice and learning resour
 
 ---
 
-## 👨‍💻 Developer
+# Developer
 
 **Name:** Dhanush Yadav  
 **Role:** AI Explorer, Developer  
 **Tool Used:** Lovable.ai  
-**Guide:** ChatGPT (Boss 😎)
+**Guide:** ChatGPT (Devil)
 
 ---
 
-## 🤝 Contributing
+# Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
 ---
 
-## 📦 License
+# License
 
 This project is open-source and free to use.
